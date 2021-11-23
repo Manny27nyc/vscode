@@ -89,7 +89,7 @@
     "xterm-addon-serialize": "0.6.0-beta.8",
     "xterm-addon-unicode11": "0.3.0-beta.6",
     "xterm-addon-webgl": "0.12.0-beta.10",
-    "xterm-headless": "4.14.0-beta.12",
+    "xterm-headless": "4.14.1",
     "yauzl": "^2.9.2",
     "yazl": "^2.4.3"
   },
