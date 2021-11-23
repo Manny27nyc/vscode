@@ -11122,10 +11122,10 @@ xterm-headless@4.14.0-beta.12:
   resolved "https://registry.yarnpkg.com/xterm-headless/-/xterm-headless-4.14.0-beta.12.tgz#06454c63a2e7ca36abbaa0774f7db0d6d7286eff"
   integrity sha512-VRtNpNbMvg0mQ3fj7tuC8/thXx5MfzqviSg2KU48mtNMhisGQSH6mL5Q7hgXs7J5m7d2nm3SyklRhQ5ztxRpQg==
 
-xterm@4.14.0-beta.22:
-  version "4.14.0-beta.22"
-  resolved "https://registry.yarnpkg.com/xterm/-/xterm-4.14.0-beta.22.tgz#89e1060927f6542645f53584bfcd35cec08abe5a"
-  integrity sha512-zl4d2fmjAoCB+G0O5tq2kNkoe7dnnrcY2Daj6VFPPV6nItyXrgRzlKWNfTjKYunC3kU2ApYy+FnHulO7lWuXSw==
+xterm@4.14.1:
+  version "4.14.1"
+  resolved "https://registry.yarnpkg.com/xterm/-/xterm-4.14.1.tgz#6884cb8fb3b83353b1a98139ea23daedf8e35796"
+  integrity sha512-jgzNg5BuGPwq5/M4dGnmbghZvHx2jaj+9crSEt15bV34Za49VziBmCu7zIy88zUKKiGTxeo7aVzirFSJArIMFw==
 
 y18n@^3.2.1:
   version "3.2.2"
